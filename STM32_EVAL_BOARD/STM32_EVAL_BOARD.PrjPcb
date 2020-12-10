@@ -208,23 +208,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PRNZBSUW
 
 [Document11]
-DocumentPath=ssd1306.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ATURKCAU
-
-[Document12]
 DocumentPath=footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBCMPAGW
 
-[Document13]
+[Document12]
 DocumentPath=schematy.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GRBOXZFZ
 
-[Document14]
+[Document13]
 DocumentPath=OLED_DISPLAY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBXDBJJT
 
-[Document15]
+[Document14]
 DocumentPath=MB1355C_1.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,9 +273,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JNQZSAHY
 
-[Document16]
+[Document15]
 DocumentPath=Nucleo_Dory_QFN68.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WFQSWHUA
 
-[Document17]
+[Document16]
 DocumentPath=STM32WB_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
