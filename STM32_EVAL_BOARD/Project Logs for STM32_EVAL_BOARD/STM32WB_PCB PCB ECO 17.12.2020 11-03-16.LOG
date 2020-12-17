@@ -1,0 +1,15 @@
+Added Component: Designator=J1(MOLX-731000114_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0731000114_RF_COAX_CONNECTORS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "5-Pin Through Hole Device, Body 14.8 x 6.35 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "731000114"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.molex.com/pdm_docs/sd/731000114_sd.pdf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC26_2 Pin=J1-1
+Added Pin To Net: NetName=BS0 Pin=J1-2
+Added Pin To Net: NetName=BS0 Pin=J1-3
+Added Pin To Net: NetName=BS0 Pin=J1-4
+Added Pin To Net: NetName=BS0 Pin=J1-5
+Added Member To Class: ClassName=RF Member=Component J1 731000114

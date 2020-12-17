@@ -1,0 +1,11 @@
+Change Component Comment : Designator=J1 Old Comment=SMA New Comment=731000114
+Change Managed Component Library Link : Designator=J1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=93114A7D-47AD-4CBF-A003-7262F55D64D0 Old RevisionGUID= New RevisionGUID=38E79585-F0CF-40CD-BE0D-5AF11FBA9D27
+Change component parameters: Designator = "J1" ("J1"); Footprint = "SMA_T_9.52_NF"; UniqueID = "\RQFRPJYA\DZIHMIMJ" ("\RQFRPJYA\DZIHMIMJ")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0731000114_RF_COAX_CONNECTORS.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "09/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "5-Pin Through Hole Device, Body 14.8 x 6.35 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "731000114"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package URL"; Value = "http://www.molex.com/pdm_docs/sd/731000114_sd.pdf"; VariantName = "[No Variations]"
