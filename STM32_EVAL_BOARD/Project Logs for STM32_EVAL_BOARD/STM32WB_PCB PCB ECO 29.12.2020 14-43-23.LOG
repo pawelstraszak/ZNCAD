@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetDS1_2 Pin=R25-2
+Removed Pin From Net: NetName=NetDS1_4 Pin=R28-2
+Change Component Footprint: Designator=DS1 Old Footprint=3528_A New Footprint=LUMX-SML-LX0404SIUPGUSB-4_V
+Change Component Comment : Designator=DS1 Old Comment=150141M173100 New Comment=SML-LX0404SIUPGUSB
+Change Managed Component Library Link : Designator=DS1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=98B686CA-E4A4-4DC2-8C33-BE3F9DE1F191 New ItemGUID=7BBEFD0B-8CF5-4705-AF90-2501A5B0C3BF Old RevisionGUID=F24690AF-D1FE-4C93-969C-D21FF47FCAA8 New RevisionGUID=A28E8F22-CEC3-4B1D-931B-E28720FA02AC
+Change component parameters: Designator = "DS1" ("DS1"); Footprint = "3528_A"; UniqueID = "\EGCZOAVY\VKAMECSP" ("\EGCZOAVY\VKAMECSP")
+Change component parameters (AddParameter): Name = "Brand"; Value = "Lumex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.lumex.com/content/files/ProductAttachment/SML-LX0404SIUPGUSB.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. B, 06/2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "2mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Illumination Color"; Value = "RGB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LED Size"; Value = "1mmx1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Color/Style"; Value = "WaterClear"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "30mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Lumex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.lumexinstruments.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Operating Temperature"; Value = "+85C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0404"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 1 x 1 mm, Pitch 0.85 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0404"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Version"; Value = "Rev. B, 06/2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "SML-LX0404SIUPGUSB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "StandardLEDs-SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "120deg"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDS1_4 Pin=R25-2
+Added Pin To Net: NetName=NetDS1_2 Pin=R28-2
