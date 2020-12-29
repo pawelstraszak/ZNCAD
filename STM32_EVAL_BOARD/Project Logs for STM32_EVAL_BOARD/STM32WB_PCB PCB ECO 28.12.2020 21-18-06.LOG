@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=3V3 Pin=CN10-2
+Added Pin To Net: NetName=RST Pin=CN10-3
+Added Pin To Net: NetName=3V3 Pin=CN10-4
+Added Pin To Net: NetName=5V Pin=CN10-5
+Added Pin To Net: NetName=BS0 Pin=CN10-6
+Added Pin To Net: NetName=BS0 Pin=CN10-7
+Added Pin To Net: NetName=VIN Pin=CN10-8
+Added Member To Class: ClassName=EXT Member=Component CN10 CN_8x1

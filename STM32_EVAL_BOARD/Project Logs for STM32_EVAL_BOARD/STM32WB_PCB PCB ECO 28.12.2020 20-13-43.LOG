@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=CN5 Old Footprint=GP_3x1_1.27 New Footprint=GP_3x1
+Change Component Footprint: Designator=CN23 Old Footprint=GP_3x1_1.27 New Footprint=GP_3x1
+Change Component Footprint: Designator=CN2 Old Footprint=HDR1X3 New Footprint=GP_3x1
+Change Component Footprint: Designator=CN3 Old Footprint=HDR1X3 New Footprint=GP_3x1
+Change Component Footprint: Designator=CN4 Old Footprint=HDR1X3 New Footprint=GP_3x1
+Change Component Footprint: Designator=CN22 Old Footprint=HDR1X3 New Footprint=GP_3x1
+Change Component Footprint: Designator=CN19 Old Footprint=HDR1X4 New Footprint=GP_4x1
+Change Component Footprint: Designator=CN17 Old Footprint=HDR1X6 New Footprint=GP_6x1
+Change Component Footprint: Designator=CN10 Old Footprint=HDR1X8 New Footprint=GP_8x1
+Change Component Footprint: Designator=CN13 Old Footprint=HDR1X8 New Footprint=GP_8x1
+Change Component Footprint: Designator=CN6 Old Footprint=HDR1X10 New Footprint=GP_10x1
+Change Component Footprint: Designator=CN16 Old Footprint=HDR2X6 New Footprint=GP_6x2
+Change Component Footprint: Designator=CN9 Old Footprint=HDR2X8 New Footprint=GP_8x2
+Change Component Footprint: Designator=CN14 Old Footprint=HDR2X8 New Footprint=GP_8x2
+Change Component Footprint: Designator=CN7 Old Footprint=HDR2X10 New Footprint=GP_10x2

@@ -1,0 +1,3 @@
+Added Component: Designator=TP1(Keystone_5000_RED)
+Added Pin To Net: NetName=BS0 Pin=TP1-0
+Added Member To Class: ClassName=BlockDiagram Member=Component TP1 Keystone 5000 Test Point (RED)

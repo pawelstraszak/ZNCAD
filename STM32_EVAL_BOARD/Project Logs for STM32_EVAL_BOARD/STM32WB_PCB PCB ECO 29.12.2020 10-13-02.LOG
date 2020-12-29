@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=A5 Pin=U2-11
+Removed Pin From Net: NetName=A4 Pin=U2-12
+Added Component: Designator=CN5(GP_3x1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Producer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Producer Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CN23(GP_3x1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Producer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Producer Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Nr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A4 Pin=CN5-1
+Added Pin To Net: NetName=A5 Pin=CN23-1
+Added Pin To Net: NetName=NetCN5_3 Pin=CN5-3
+Added Pin To Net: NetName=NetCN5_3 Pin=R34-2
+Added Net: Name=NetCN5_3
+Added Pin To Net: NetName=NetCN23_3 Pin=CN23-3
+Added Pin To Net: NetName=NetCN23_3 Pin=R35-2
+Added Net: Name=NetCN23_3
+Added Member To Class: ClassName=EXT Member=Component CN5 CN_3x1
+Added Member To Class: ClassName=EXT Member=Component CN23 CN_3x1
