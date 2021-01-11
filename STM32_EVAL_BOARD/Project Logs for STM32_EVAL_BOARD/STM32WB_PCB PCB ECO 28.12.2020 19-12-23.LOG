@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=NetC51_2 Pin=S1-1
-Removed Pin From Net: NetName=5V Pin=S1-2
-Change Component Footprint: Designator=S1 Old Footprint=SPST-2 New Footprint=500SSPxS1M6xEA
-Change Component Comment : Designator=S1 Old Comment=RLSM102A3 New Comment=500SSPxS1M6xEA
-Change component parameters: Designator = "S1" ("S1"); Footprint = "SPST-2"; UniqueID = "\HHIMMRQB\WKRMQQKN" ("\HHIMMRQB\WKRMQQKN")
-Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "EG2478-ND"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=NetC51_2 Pin=S1-2
-Added Pin To Net: NetName=5V Pin=S1-3
